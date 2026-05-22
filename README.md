@@ -1,5 +1,5 @@
 # Aardbench
-Aardbench - benchmark for use of AI tools with official and macroeconomic data
+Aardbench - a benchmark for use of AI tools with official and macroeconomic data
 
 
 # License 
