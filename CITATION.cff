@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+title: "Aard Benchmark"
+message: "If you use this benchmark, please cite it using the metadata below."
+type: Dataset
+authors:
+  - given-names: Braddon
+    family-names: Lance
+    affiliation: Aard Pty Ltd
+    # orcid: "https://orcid.org/0000-0003-2759-1157"
+abstract: >-
+  A public benchmark for evaluating AI performance in use of macroeconomic and official data.  Released by Aard Pty Ltd  (https://aard.ai/benchmark).
+keywords:
+  - sgentic workflows
+  - macroeconomics
+  - benchmark
+  - sustainable development goals
+  - demographics
+  - environment
+  - evaluation
+  - statistical-data
+  - SDMX
+
+license: CC-BY-SA-4.0
+version: "0.0.1"               
+date-released: "2026-05-22"    
+url: "https://aard.ai/benchmark" 
+repository-code: "https://github.com/aard-ai/Aardbench" 
